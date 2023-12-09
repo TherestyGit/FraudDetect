@@ -93,7 +93,7 @@ if choix == "1":
     print("10 : K-Means")
     print("11 : Hierarchical Clustering")
     print("12 : Gaussian Mixture Model")
-    print("13 : Aprirori algorithm")
+    print("13 : Apriori algorithm")
     choix_model_ml= input("Votre choix : ")
 
     # -- SI L'UTILISATEUR CHOISIT LE MODELE 1 -- #
